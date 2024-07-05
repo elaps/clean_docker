@@ -2,6 +2,7 @@
 .*.swp
 .DS_Store
 
+web/
 # Application
 web/app/composer.json
 web/app/composer.lock
